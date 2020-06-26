@@ -1,3 +1,0 @@
-初始化仓库 git init
-git remote add origin https://github.com/ldd450/test.git
-git push -u origin master
