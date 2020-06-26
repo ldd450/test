@@ -1,3 +1,6 @@
 初始化仓库 git init
 git remote add origin https://github.com/ldd450/test.git
 git push -u origin master
+git branch: 查看分支
+git checkout 版本号\分支号: 回到..版本\分支
+git reflog --oneline: 查看历史版本
