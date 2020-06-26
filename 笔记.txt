@@ -5,3 +5,4 @@ git branch: 查看分支
 git checkout 版本号\分支号: 回到..版本\分支
 git reflog --oneline: 查看历史版本
 git merge dev : 合并分支
+及解决及解决军军军军军军军军军军军军军军军军军军军军军军军军军军军军军军军军军军军军军军军军
